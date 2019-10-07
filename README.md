@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/heineken/Robotics%20and%20Automation/_apis/build/status/btakac.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/heineken/Robotics%20and%20Automation/_build/latest?definitionId=279&branchName=master)
 
 # Contributing
 
